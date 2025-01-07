@@ -1,0 +1,59 @@
+body{
+    background-color:rgb(190,200,235);
+    margin: 100px;
+}
+
+header{
+background-image: url(hatter.jpg);
+border-top-width:5px;
+border-top-style:solid ;
+border-top-color:rgb(30,45,100);
+
+border-bottom-width:2px;
+border-bottom-style:solid;
+border-bottom-color:rgb(30,45,100);
+border-radius: 10px;
+}
+footer{
+background-color:rgb(30,45,100) ;
+text-align:left 10px;
+color: white;
+}
+
+table{
+text-align:justify;
+width:600px;
+}
+.páratlan{ color:rgb(230,230,255)}
+
+.páros{ color: rgb(255,255,255);}
+
+#kicsi{
+    width: 600px;
+    text-align:center;
+
+    border-left-width:2px;
+    border-left-style:solid;
+    border-left-color:rgb(30,45,100);
+
+border-right-width: 2px;
+border-right-style:solid;
+border-right-color:rgb(30,45,100);
+border-radius: 5px;
+
+margin: auto;
+}
+
+h1,h2{
+    text-align: center;
+}
+#kep{
+    text-align: right;
+    width: 600px;
+    margin: auto;
+    transform: rotate(8deg);
+}
+
+
+
+ 
