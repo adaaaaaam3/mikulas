@@ -1,2 +1,2 @@
-##En vagyok a readme :D
-hello világ
+##mikulas projekt masolasa és elküldese
+
